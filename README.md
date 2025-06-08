@@ -1,5 +1,5 @@
 
-# Phage Interaction Simulations
+#  Optimizing phage strategies in competitive boom-bust environments
 
 This repository contains simulation notebooks and supporting libraries for exploring competitive dynamics between bacteriophage strains under environmental stress and cross-immunity constraints.
 
