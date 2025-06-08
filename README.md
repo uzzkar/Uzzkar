@@ -7,14 +7,15 @@ This repository contains simulation notebooks and supporting libraries for explo
 
 The simulations fall into three core categories:
 
-1. **Cross-Immunity Heatmaps**  
-   Simulations of pairwise competition between phage strategies (`x*`, `x**`) under varying immunity configurations. Results are visualized as heatmaps that show regions of evolutionary advantage.
-
-2. **Flux Simulations**  
+1. **Single Trajectory Analyses**
+   Most recomended to test out; Two phages competing against each other in stochastic simulation. `phages.py` and `phagesvisual.py`are needed besiedes build in liberarys.
+   Focused simulations that track the rise and fall of individual phage strains, including their free phages and lysogen populations. Useful for detailed understanding of extinction and survival mechanisms.
+   
+3. **Flux Simulations**  
    Stochastic simulations of population dynamics in a continuous environment. These models capture phage and lysogen behavior across time under randomly occurring bad events.
 
-3. **Single Trajectory Analyses**  
-   Focused simulations that track the rise and fall of individual phage strains, including their free phages and lysogen populations. Useful for detailed understanding of extinction and survival mechanisms.
+4. **Cross-Immunity Heatmaps**  
+   Simulations of pairwise competition between phage strategies (`x*`, `x**`) under varying immunity configurations. Results are visualized as heatmaps that show regions of evolutionary advantage.
 
 ## Structure
 
