@@ -44,8 +44,9 @@ The simulations fall into three core categories:
 
 ## Authors
 
-- Oskar Lund
 - Kim Sneppen
+- Oskar Lund
+
 
 ## License
 
